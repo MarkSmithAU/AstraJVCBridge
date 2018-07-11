@@ -1,4 +1,4 @@
-# Holden Astra to JVC Radio steering wheel remote code for ATTINY85
+# Holden Astra to JVC Radio (KD-X351BT) steering wheel remote code for ATTINY85
 
 ```
 This code can be used on any vehicle that uses a 5v (or lower) output from the vehicle or a resistor divider bridge
