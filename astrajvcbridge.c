@@ -13,7 +13,7 @@ The ATTINY85 ADC pin must not receive a voltage above VCC (5v) i.e. 12V would be
 divider to get the correct voltage if required.
 
 One resistor (470 ohm) for the voltage divider and one capacitor are the only external components required for the Astra.
-The whole circuit can be powered from the 5v amplifier line on the back of the JVC which has power when the unit is on.
+The whole circuit can be powered from the amplifier line on the back of the JVC which has power when the unit is on.
 
 I/O and connection notes:
 PORTB0 is the line to connect to the JVC remote control input.
